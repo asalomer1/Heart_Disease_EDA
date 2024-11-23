@@ -1,7 +1,7 @@
 # Kalp Hastalığı Keşifsel Veri Analizi
 Aygaz Veri Bilimi Bootcamp
 
-![Foto](https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/YXyKXVBE.jpg)
+![kalpritim](https://github.com/user-attachments/assets/190b68b3-101b-4e3a-a73b-bcd580fac082)
 
 Kalp hastalığı veri setinde birbirinden farklı sağlık verileri içeren bir veri setidir. (Diyabet geçirme durumu, Astımı bulunma durumu Cilt kanseri olma durumu vb..)
 
