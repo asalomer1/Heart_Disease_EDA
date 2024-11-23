@@ -28,9 +28,10 @@ https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-dis
 17. KidneyDisease = Böbrek rahatsızlığı bulunma durumu
 18. SkinCancer = Cilt kanseri bulunma durumu
 
-# Kaggle Hesabım
+#### Kaggle Hesabım
 https://www.kaggle.com/asalomer1
 
+# Sonuç ve Öneriler
 #### Proje Senaryosu: 
 
 * Bu çalışma, HeartDisease veri seti üzerinden analiz edilmiştir. Bu veri seti, bireylerin sağlık durumlarıyla ilgili çok sayıda değişken içermektedir ve kalp hastalığı riski üzerine odaklanmaktadır. Analizlerin amacı, bireylerin belirli sağlık verileri (örneğin, uyku süresi, sigara kullanımı, şeker hastalığı geçmişi, fiziksel aktivite düzeyi) ışığında kalp hastalığına yatkınlığını tahmin eden bir model geliştirmektir.
